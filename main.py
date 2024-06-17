@@ -2,8 +2,8 @@ import time
 import random
 from instagrapi import Client, exceptions
 
-USERNAME = "brokenboxpro"
-PASSWORD = "Utanapishti543@"
+#Add your USERNAME = "" and PASSWORD = "" below. 
+
 
 # Rate limit settings
 REQUESTS_PER_HOUR = 60  # Reduce this further to lower the risk of getting rate-limited
