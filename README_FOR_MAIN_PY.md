@@ -1,5 +1,3 @@
-# Instagram-gateway-v1 
-
 # Instagram Automation Bot
 
 This repository contains an Instagram automation bot that likes, comments, and optionally follows users based on specified hashtags. The bot is designed to interact with posts in a randomized and human-like manner to reduce the risk of getting rate-limited or banned by Instagram.
